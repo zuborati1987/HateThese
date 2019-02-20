@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Movies xmlns="Movies">
+    <Movie description="House of the Dead">
+        <description>House of the Dead</description>
+        <rating>2.0</rating>
+        <genre>horror</genre>
+        <runtime>90</runtime>
+        <animation>false</animation>
+        <multilang>false</multilang>
+    </Movie>
+    <Movie description="Disaster Movie">
+        <description>Disaster Movie</description>
+        <rating>1.9</rating>
+        <genre>comedy</genre>
+        <runtime>87</runtime>
+        <animation>false</animation>
+        <multilang>false</multilang>
+    </Movie>
+    <Movie description="Jaws: The Revenge">
+        <description>Jaws: The Revenge</description>
+        <rating>2.9</rating>
+        <genre>adventure,horror,thriller</genre>
+        <runtime>89</runtime>
+        <animation>false</animation>
+        <multilang>true</multilang>
+    </Movie>
+    <Movie description="Hercules in New York">
+        <description>Hercules in New York</description>
+        <rating>3.2</rating>
+        <genre>adventure,family,fantasy</genre>
+        <runtime>75</runtime>
+        <animation>false</animation>
+        <multilang>false</multilang>
+    </Movie>
+    <Movie description="The Emoji Movie">
+        <description>The Emoji Movie</description>
+        <rating>3.2</rating>
+        <genre>adventure,comedy</genre>
+        <runtime>86</runtime>
+        <animation>true</animation>
+        <multilang>true</multilang>
+    </Movie>
+    <Movie description="The Godfather">
+        <description>The Godfather</description>
+        <rating>9.2</rating>
+        <genre>crime,drama</genre>
+        <runtime>175</runtime>
+        <animation>false</animation>
+        <multilang>false</multilang>
+    </Movie>
+    <Movie description="The Lord of the Rings: The Return of the King">
+        <description>The Lord of the Rings: The Return of the King</description>
+        <rating>8.9</rating>
+        <genre>adventure,drama,fantasy</genre>
+        <runtime>201</runtime>
+        <animation>false</animation>
+        <multilang>true</multilang>
+    </Movie>
+    <Movie description="The Lion King">
+        <description>The Lion King</description>
+        <rating>8.5</rating>
+        <genre>adventure,drama</genre>
+        <runtime>88</runtime>
+        <animation>true</animation>
+        <multilang>false</multilang>
+    </Movie>
+    <Movie description="Jurassic Park">
+        <description>Jurassic Park</description>
+        <rating>8.1</rating>
+        <genre>adventure,thriller,scifi</genre>
+        <runtime>127</runtime>
+        <animation>false</animation>
+        <multilang>false</multilang>
+    </Movie>
+    <Movie description="Inside out">
+        <description>Inside out</description>
+        <rating>8.2</rating>
+        <genre>adventure,comedy</genre>
+        <runtime>95</runtime>
+        <animation>true</animation>
+        <multilang>true</multilang>
+    </Movie>
+</Movies>
